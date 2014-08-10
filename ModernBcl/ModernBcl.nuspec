@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/PalmStoneGames/ModernBcl/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/PalmStoneGames/ModernBcl</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Compatibility pack allowing to use most of .NET 4.5's features while running the .NET 3.5 runtime. Useful when forced to use 3.5</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2014 Palm Stone Games</copyright>
+  </metadata>
+</package>
